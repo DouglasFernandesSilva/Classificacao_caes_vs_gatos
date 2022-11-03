@@ -1,2 +1,2 @@
-# Projetos_Deep_Learning
+# Projetos Deep Learning
 Repositório dedicado a projetos de Deep Learning
